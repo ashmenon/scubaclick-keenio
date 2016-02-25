@@ -1,13 +1,13 @@
 {
-    "name": "scubaclick/keenio",
+    "name": "ashmenon/scubaclick-keenio",
     "description": "Keen.io integration into Laravel 4",
     "keywords": ["keen.io", "analytics", "laravel"],
-    "homepage": "https://github.com/ScubaClick/scubaclick-keenio",
+    "homepage": "https://github.com/ashmenon/scubaclick-keenio",
     "license": "MIT",
     "authors": [
         {
-            "name": "Boris Glumpler",
-            "email": "tech@scubaclick.com"
+            "name": "Ash Menon",
+            "email": "ash@ashmenon.com"
         }
     ],
     "require": {
